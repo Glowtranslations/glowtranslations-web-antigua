@@ -1,0 +1,75 @@
+body {
+	background-image: url("http://i.imgur.com/PLfzek0.png");
+	background-position: center top;
+	background-repeat: no-repeat, repeat;
+	background-color: #000;
+	font-family: 'Droid Sans', sans-serif, arial;
+	padding: 0;
+	margin: 0;
+	}
+.twitter {
+	float: left;
+	width: 550px;
+	margin: auto;
+	text-align: center;
+
+	}
+.banners {
+	float: right;
+	width: 550px;
+	margin: auto;
+	text-align: center;
+	padding-top: 150px
+	}	
+.banners-header {
+  color: #fff;
+	text-shadow: -1px -1px 0 rgba(0,0,0,1), 1px -1px 0 rgba(0,0,0,1), -1px 1px 0 rgba(0,0,0,1), 1px 1px 0 rgba(0,0,0,1);
+	font-weight: bold;
+	font-size: 40px;
+	margin: auto;
+	
+	}
+.banner {
+	margin: auto;
+	position: relative;
+	}
+.banner-overlay {
+	width: 500px;
+	height: 150px;
+	background-color: rgba(0,0,0,0);
+	text-align: center;
+	transform: translate(25px,-150px);
+	font-size: 30px;
+	font-weight: bold;
+	color: rgba(255,255,255,0);
+	transition: color 0.25s, background-color 0.25s, text-shadow 0.25s;
+	text-shadow: -1px -1px 0 rgba(0,0,0,0), 1px -1px 0 rgba(0,0,0,0), -1px 1px 0 rgba(0,0,0,0), 1px 1px 0 rgba(0,0,0,0);
+	margin: auto;
+	text-decoration: none;
+	position: absolute;
+	}
+.banner-overlay:hover {
+	transition: color 0.25s, background-color 0.25s, text-shadow 0.25s;
+	color: rgba(255,255,255,1);
+	background-color: rgba(0,0,0,0.65);
+	text-shadow: -1px -1px 0 rgba(0,0,0,1), 1px -1px 0 rgba(0,0,0,1), -1px 1px 0 rgba(0,0,0,1), 1px 1px 0 rgba(0,0,0,1);
+	}
+.banner-text {
+	transform: translate(0px, 50px)
+	}
+.logo {
+	background-image:url("http://i.imgur.com/qjK7Tbo.png");
+	background-size: 800px auto;
+	background-repeat: no-repeat;
+	width: 800px;
+	height: 150px;
+	margin: auto;
+	margin-bottom: 50px;
+	}
+.page-body {
+	width: 80%;
+	max-width: 1100px;
+	min-width: 600px;
+	margin: auto;
+
+	}

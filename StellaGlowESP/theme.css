@@ -1,0 +1,250 @@
+body {
+	background-image: url("http://i.imgur.com/pozERSk.png"), url("http://i.imgur.com/xVPeHXV.jpg");
+	background-position: center top;
+	background-repeat: no-repeat, repeat;
+	background-color: #fff;
+	font-family: 'Droid Sans', sans-serif, arial;
+	padding: 0;
+	margin: 0;
+	}
+div.logo {
+	background-image: url("http://i.imgur.com/OJV3y2z.png");
+	width: 450px;
+	height: 82px;
+	background-size: 450px;
+	background-repeat: no-repeat;
+	}
+div.logo2 {
+	background-image: url("http://i.imgur.com/nZIWMR9.png");
+	width: 150px;
+	height: 82px;
+	background-size: 150px;
+	background-repeat: no-repeat;
+	}
+div.topmenu {
+	background-image: url("http://i.imgur.com/FQ5ms69.png");
+	height: 122px;
+	background-repeat: repeat-x;
+	width: 100%;
+	margin: auto;
+	}
+div.topmenu2 {
+	background-image: url("http://i.imgur.com/w1NujhU.jpg");
+	height: 122px;
+	background-repeat: repeat-x;
+	width: 100%;
+	margin: auto;
+	}
+div.logocontainer {
+	width: 960px;
+	margin: auto;
+	}
+div.menuelement {
+	width: 1000px;
+	margin: auto;
+	}
+a.menuelement {
+	display: inline-block;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	height: 28px;
+	width: 160px;
+	color: #fff;
+	padding: 5px 0px 5px 0px;
+	text-decoration: none;
+	text-transform: uppercase;
+	}
+a.menuelement:hover {
+	background-image: url("http://i.imgur.com/DuX5iOO.png");
+	background-size: 60px;
+	background-repeat: no-repeat;
+	text-shadow: -1px -1px 0 #69c7c1, 1px -1px 0 #69c7c1, -1px 1px 0 #69c7c1, 1px 1px 0 #69c7c1, 0px 0px 5px #69c7c1;
+	}
+a#menuelementright {
+	border-right: 1px dotted #fff;
+	}
+div.content {
+	background: rgba(255,255,255,0.9);
+	box-shadow: 5px 5px 22px 0px rgba(0,0,0,0.46);
+	border: 1px solid #777;
+	width: 880px;
+	margin: 50px auto 20px auto;
+	padding: 20px 10px 10px 10px;
+	border-radius: 5px;
+	}
+div.content#index {
+	height: 600px;
+	}
+div.headerimg {
+	background-image: url("http://i.imgur.com/eIR8BMP.png");
+	background-repeat: no-repeat;
+	margin-left: -45px;
+	margin-top: -50px;
+  width: 960px;
+	height: 100px;
+	position: absolute;
+	}
+p.header {
+	font-size: 20px;
+	font-weight: bold;
+	color: #613c39;
+	margin-top: 35px;
+	text-align: center;
+	position: relative;
+	}
+div.text-content {
+	margin-top: 50px;
+	}
+div.text-left {
+	float: left;
+	width: 500px;
+	}
+div.image-container {
+	float: right;
+}
+table.content {
+	border-top: 2px solid #b2a68a;
+	border-right: 10px solid #b2a68a;
+	border-bottom: 2px solid #b2a68a;
+	border-left: 2px solid #b2a68a;
+	}
+td.title {
+	font-weight: bold;
+	border-top: 1px solid #b2a68a;
+	border-bottom: 1px solid #b2a68a;
+	background-color: #ffcd65;
+	border-right: 1px solid #b2a68a;
+	}
+td.content {
+	border-bottom: 1px solid #b2a68a;
+	background-color: #fff;
+	}
+td.yes {
+	font-weight: bold;
+	border-bottom: 1px solid #b2a68a;
+	background-color: #9FF781;
+	border-right: 1px solid #b2a68a;
+	}
+td.wip {
+	font-weight: bold;
+	border-bottom: 1px solid #b2a68a;
+	background-color: #F3F781;
+	border-right: 1px solid #b2a68a;
+	}
+td.testing {
+	font-weight: bold;
+	border-bottom: 1px solid #b2a68a;
+	background-color: #81F7F3;
+	border-right: 1px solid #b2a68a;
+	}
+div.footer {
+	background-image: url('http://i.imgur.com/Y3gjk0s.jpg');
+	background-color:	#623c39;
+	background-repeat: repeat-x;
+	width: 100%;
+	min-height: 100px;
+	padding-top: 35px;
+	}
+div.footer-text {
+	color: #fff;
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	}
+div.title-c {
+	background-color: #bfbfbf;
+	width: 300px;
+	margin: auto;
+	text-align: center;
+	height: 30px;
+	padding-top: 10px;
+	font-weight: bold;
+	font-size: 20px;
+	border-radius: 5px 5px 0 0;
+	box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.2);
+
+	}
+div.content-c {
+	background-color: #bfbfbf;
+	padding: 20px;
+	border-radius: 5px;
+	margin: 0px 25px 25px 25px;
+	box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.2);
+	}
+div.c-avatar {
+	background-color: #999999;
+	border: 2px solid orange;
+	display: inline-block;
+	padding: 5px;
+	text-align: center;
+	margin: 0px auto 0px auto;
+	border-radius: 5px;
+	color: #ffffff;
+	font-weight: bold:
+	font-size: 10px;
+	width: 113px;
+	transform: translate(0px, 0px);
+	transition: transform 0.5s, background 0.5s;
+	}
+div.c-avatar:hover {
+	background-color: #777777;
+	transform: translate(0px, -15px);
+	transition: transform 0.5s, background 0.5s;
+	}
+img.avatar {
+	border-radius: 10px;
+	}
+table.download {
+	background:  #222;
+	border-collapse: collapse;
+	padding: 5px;
+	color: #fff;
+	width: 100%;
+	}
+th.download {
+	background-color: #fbc963;
+	padding: 5px;
+	border: 1px solid #5c4635;
+	color: #000;
+	}
+td.download {
+	padding: 5px;
+	border: 1px solid #5c4635;
+	}
+div.download {
+	width: 100%;
+	background-color: #222;
+	padding: 20px 0px 10px 0px;
+	border: 2px solid orange;
+	border-radius: 10px;
+	}
+div.t-download {
+	font-weight: bold;
+	font-size: 20px;
+	text-shadow: -1px -1px 0 orange, 1px -1px 0 orange, -1px 1px 0 orange, 1px 1px 0 orange, 0px 0px 5px orange;
+	text-transform: uppercase;
+	text-decoration: none
+	transform: translate(20px, 5px);
+	}
+.content a:hover {
+	text-decoration: underline;
+	}
+.content a {
+	text-decoration: none;
+	}
+img.avatar {
+ background-color: #fff;
+ }
+div.feedback {
+ padding-top: 40px;
+ }
+table.progress {
+	width: 100%;
+	border-collapse: collapse;
+	}
+table.progress td {
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid black;
+	}
