@@ -11,5 +11,5 @@ function noSubMenu() {
 	document.getElementById("second-bar").innerHTML =  '<a href="http://glowtranslations.tk/index.html" style="width: 325px; display: inline-block"><div class="logo"></div></a>';
 }
 function footer() {	
-	document.getElementById("footer").innerHTML =  'This is a nonprofit and public project by users for users. On this site you will not find any link to download the game or the demo, only the patch to translate the game into Spanish. Página diseñada por CrusardGameamos ';
+	document.getElementById("footer").innerHTML =  'This is a nonprofit and public project by users for users. On this site you will not find any link to download the game or the demo, only the patch to translate the game into Spanish. <br> Página diseñada por CrusardGameamos ';
 }
