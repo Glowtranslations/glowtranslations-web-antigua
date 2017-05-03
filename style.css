@@ -274,7 +274,7 @@ div.content {
 	
 	}
 .dropdown-item img {float: left; margin-right: 5px;}
-.state-dropdown {font-weight: 400; font-style: italic; font-size: 12px;}
+.state-dropdown {font-weight: 400; font-style: italic; font-size: 12px; margin: 3px}
 
 /* twitter module */
 
