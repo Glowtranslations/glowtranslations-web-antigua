@@ -180,7 +180,7 @@ a {text-decoration: none;}
   float: left;
   transition: background-color 0.1s, border-top 0.1s, border-bottom 0.1s, border-left 0.1s, border-right 0.1s;
 	}
-.sub-menu-item:hover, body.informacion div.informacion, body.progresos div.progresos, body.galeria div.galeria, body.descargas div.descargas, body.creditos div.creditos, body.participa div.participa {
+.sub-menu-item:hover, body.informacion div.informacion, body.progresos div.progresos, body.galeria div.galeria, body.descargas div.descargas, body.creditos div.creditos, body.participantes div.participantes, body.participa div.participa {
 	background-color: #6289FC;
   border-bottom: 1px solid rgba(0,0,0,0.5);
   border-top: 1px solid rgba(255,255,255,0.5);
