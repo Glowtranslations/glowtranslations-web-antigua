@@ -401,3 +401,54 @@ div.nota::before, div.recuerda::before, div.importante::before {
 div.nota::before {content: "Nota: ";}
 div.recuerda::before {content: "Recuerda: ";}
 div.importante::before {content: "Importante: ";}
+/* Table */
+table.content {
+	border-top: 2px solid #b2a68a;
+	border-right: 10px solid #b2a68a;
+	border-bottom: 2px solid #b2a68a;
+	border-left: 2px solid #b2a68a;
+	}
+td.title {
+	font-weight: bold;
+	border-top: 1px solid #b2a68a;
+	border-bottom: 1px solid #b2a68a;
+	background-color: #1ac6cc;
+	border-right: 1px solid #b2a68a;
+	}
+td.content {
+	border-bottom: 1px solid #b2a68a;
+	background-color: #fff;
+	}
+table.progress {
+	width: 100%;
+	}
+table.progress td {
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid black;
+	border-radius: 10px 10px 10px 10px;
+	}
+td.yes {
+	font-weight: bold;
+	border-bottom: 1px solid #b2a68a;
+	background-color: #9FF781;
+	border-right: 1px solid #b2a68a;
+	}
+td.no {
+	font-weight: bold;
+	border-bottom: 1px solid #b2a68a;
+	background-color: #a8a8a8;
+	border-right: 1px solid #b2a68a;
+	}
+td.wip {
+	font-weight: bold;
+	border-bottom: 1px solid #b2a68a;
+	background-color: #F3F781;
+	border-right: 1px solid #b2a68a;
+	}
+td.testing {
+	font-weight: bold;
+	border-bottom: 1px solid #b2a68a;
+	background-color: #81F7F3;
+	border-right: 1px solid #b2a68a;
+	}
