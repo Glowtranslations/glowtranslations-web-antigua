@@ -14,5 +14,5 @@ function noSubMenu() {
 	document.getElementById("second-bar").innerHTML =  '<a href="http://glowtranslations.tk/index.html" style="width: 325px; display: inline-block"><div class="logo"></div></a>';
 }
 function footer() {	
-	document.getElementById("footer").innerHTML =  'Recuerda, nuestros proyectos son sin animo de lucro por fans para fans. En este sitio no encontraras ningún enlace para descargar un juego o una demo, solo parches para traducir el videojuego al español. <br> Glowtranslations 2016-2017';
+	document.getElementById("footer").innerHTML =  'Recuerda, nuestros proyectos son sin animo de lucro por fans para fans. En este sitio no encontrarás ningún enlace para descargar un juego o una demo, sólo parches para traducir el videojuego al español. <br> Glowtranslations 2016-2017';
 }
