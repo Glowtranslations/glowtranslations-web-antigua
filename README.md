@@ -6,7 +6,7 @@
 ### Información adicional
 En glowtranslations unicamente hacemos traducciones no oficiales de videojuegos al español sin animo de lucro, no estamos afiliados a ninguna empresa ni ganamos ningún tipo de beneficio por ello, lo hacemos por los fans para que disfruten de los titulos al español.
 
-Cualquier duda, sugerencia o algún tipo de reporte de cualquier traducción, puedes contactar con nosotros desde muestra web.
+Cualquier duda, sugerencia o algún tipo de reporte de cualquier traducción, puedes contactar con nosotros desde nuestra web.
 
 Recuerda, en este sitio no encontraras ningún enlace para descargar un juego o una demo, solo parches para traducir el videojuego al español.
 
