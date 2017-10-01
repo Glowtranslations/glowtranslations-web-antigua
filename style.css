@@ -125,7 +125,7 @@ a {text-decoration: none;}
 	transition: background-color 0.1s;
 	cursor:pointer;
 	}
-.top-menu-item:hover, body.inicio div.inicio, body.traducciones div.traducciones, body.contacto div.contacto, body.miembros div.miembros {
+.top-menu-item:hover, body.inicio div.inicio, body.traducciones div.traducciones, body.contacto div.contacto, body.FAQ div.FAQ, body.miembros div.miembros {
 	background-color: #4f7cfe; 
 	background: linear-gradient(#6289FC, #4f7cfe);
 	border-radius: 5px 5px 0px 0px;
