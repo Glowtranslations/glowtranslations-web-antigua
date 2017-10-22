@@ -1,0 +1,35 @@
+<articulos>
+   <noticia ID="1">
+       <title>¡Añadimos las entradas!</title>
+       <content><![CDATA[Ha pasado mucho tiempo, pero por fin…<br>
+                <b>¡¡Añadimos las entradas!!</b><br><br>
+
+				Nuestro superwebmaster ha trabajado arduamente para incluir detalles muy interesantes que esperamos os hagan más amena la espera de nuevas novedades. <br><br>
+
+				Noticias, resúmenes y más detalles que podréis disfrutar a partir de ahora.<br><br>
+
+                Además, <b>podréis comentar las noticias mediante Disqus</b>. ¡Estamos deseando leer vuestras opiniones!<br><br>
+
+				También <b>se ha remodelado la web, dándole un aspecto más cuidado</b>:<br><br>
+
+                El <b>nuevo diseño</b> le da un aspecto más cercano, con personajes de nuestros trabajos invitándoos a entrar en las secciones,<br> <b>se ha separado la FAQ</b>, pudiendo así acceder directamente desde la página principal,<br> <b>se han actualizado los porcentajes</b>, mostrando el avance actual de los trabajos,<br> <b>podéis apuntaros a nuestro canal de Telegram</b> para recibir nuestras noticias directamente en vuestra app, ¡Y más! <br><br>
+
+                Además, <b>¡tenemos nuevos fichajes!</b><br>
+				Los nuevos fichajes que se integrarán a las traducciones de Rune Factory 4 y Lord Of Magna: Maiden Heaven son...<br>
+				<ul>
+					<li>Jesa</li>
+                    <img onload="this.style.opacity='1';" src="../../../images/avatars/Jesa.jpg" style="width: 100px; height: 100px;">
+					<li>Erena</li>
+                    <img onload="this.style.opacity='1';" src="../../../images/avatars/Erena.jpg" style="width: 100px; height: 100px;">
+				</ul>
+				<b>¡¡Bienvenidas!!</b><br>
+
+				¡Y esto es todo por ahora!<br>
+
+				Estad atentos a nuevas noticias, no olvidéis dejar comentarios y recordad <b>que ya está disponible el parche de traducción del juego que da nombre a nuestro grupo, Stella Glow.</b> <br><br>
+				<b><u>¡Hasta la próxima!</b></u> <br>]]></content>
+		<author>Sany</author>
+       <date>22/10/2017</date> 
+       <disqus>00001</disqus>
+	</noticia>
+</articulos>
