@@ -1,0 +1,132 @@
+<articulos>
+   <noticia ID="1">
+       <title>GlowNovedades #1 - Halloween Edition</title>
+       <content><![CDATA[<b>¡¡Feliz Halloween!!</b><br><br>
+
+Llegamos a fechas de terror y sorpresas, pero como no damos mucho miedo, preferimos
+sorprenderos con algunas <b>novedades</b> , <b>buenas noticias</b> y el estreno de nuestra sección
+<b><u>GlowNovedades</u></b>, donde cada mes explicaremos el estado de los proyectos, pero además,
+<b>¡Una gran sorpresa!</b>:<br>
+<ul>
+    <li>En <b>Lord of Magna</b> todo está muy avanzado, no hay nada en especial pues estamos
+trabajando con todo a la vez.<br></li>
+<li>En cuanto a <b>Rune Factory 4</b>, se está trabajando en traducir sobre en los items, habilidades,
+runas, imágenes y la historia principal.<br></li>
+<li>Las <b>escenas animadas</b> de ambos juegos estarán subtitulados para mayor disfrute y
+comprensión.<br><br></li>
+</ul>
+
+También hemos sacado unas cuantas capturas sin spoilers de los últimos avances de la traducción de Lord Of Magna:<br><br>
+
+  <div class="column">
+    <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/Dialogo-4.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow">
+  </div>
+  <div class="column">
+    <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/Combate-1.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow">
+  </div>
+  <div class="column">
+    <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/Combate-2.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow">
+  </div>
+  <div class="column">
+    <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/Eventos.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow">
+  </div>
+  <div class="column">
+    <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/Localizacion.jpg" onclick="openModal();currentSlide(5)" class="hover-shadow">
+  </div>
+  <div class="column">
+    <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/skill.jpg" onclick="openModal();currentSlide(6)" class="hover-shadow">
+  </div>
+</div>
+
+<div id="myModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+
+    <div class="mySlides">
+      <div class="numbertext">1 / 6</div>
+        <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/Dialogo-4.jpg" style="margin: auto;">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">2 / 6</div>
+        <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/Combate-1.jpg" style="margin: auto;">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">3 / 6</div>
+        <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/Combate-2.jpg" style="margin: auto;">
+    </div>
+    <div class="mySlides">
+      <div class="numbertext">4 / 6</div>
+        <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/Eventos.jpg" style="margin: auto;">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">5 / 6</div>
+        <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/Localizacion.jpg" style="margin: auto;">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">6 / 6</div>
+        <img onload="this.style.opacity='1';" src="../../../translations/lordofmagna/gallery/skill.jpg" style="margin: auto;">
+    </div>
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+		<div class="gallery-thumbs">
+
+    <div class="column">
+      <img onload="this.style.opacity='1';" class="demo" src="../../../translations/lordofmagna/gallery/Dialogo-4.jpg" onclick="currentSlide(1)" alt="Conversaciones">
+    </div>
+
+    <div class="column">
+      <img onload="this.style.opacity='1';" class="demo" src="../../../translations/lordofmagna/gallery/Combate-1.jpg" onclick="currentSlide(2)" alt="Combate">
+    </div>
+
+    <div class="column">
+      <img onload="this.style.opacity='1';" class="demo" src="../../../translations/lordofmagna/gallery/Combate-2.jpg" onclick="currentSlide(3)" alt="Combate">
+    </div>
+    <div class="column">
+      <img onload="this.style.opacity='1';" class="demo" src="../../../translations/lordofmagna/gallery/Eventos.jpg" onclick="currentSlide(4)" alt="Eventos">
+    </div>
+
+    <div class="column">
+      <img onload="this.style.opacity='1';" class="demo" src="../../../translations/lordofmagna/gallery/Localizacion.jpg" onclick="currentSlide(5)" alt="Localización">
+    </div>
+
+    <div class="column">
+      <img onload="this.style.opacity='1';" class="demo" src="../../../translations/lordofmagna/gallery/skill.jpg" onclick="currentSlide(6)" alt="Habilidades">
+    </div>
+    </div>
+    </div>
+    </div>
+<br><br><br><br>
+<div style="clear: both;"></div>
+Como podéis ver, nos hemos centrado en terminar <b>Lord of Magna</b>, pero <b>Rune Factory 4</b>
+sigue en curso, ¡y más aún con nuestra <b>nueva incorporación</b>!<br><br>
+
+Desde nuestro equipo amigo, <b>Traducciones XT</b> , llega un nuevo integrante que dará un
+gran empujón al proyecto de <b>Rune Factory 4</b> mientras nos ocupamos de <b>Lord of Magna</b>:<br>
+<ul>
+    <li>Sonicus</li>
+    <img onload="this.style.opacity='1';" src="../../../images/avatars/Sonicus.png" style="width: 100px; height: 100px;">
+</ul>
+
+Ha trabajado en proyectos como <b>Final Fantasy The 4 Heroes of Light</b>, la retraducción de
+<b>Final Fantasy VII</b> o <b>Kingdom Hearts 3D: Dream Drop Distance</b>.<br><br>
+
+<b>¡¡Bienvenido!!</b><br><br>
+
+Para terminar, la <b>sorpresa especial</b>:<br><br>
+
+<b><u>¡¡Estamos preparando un nuevo proyecto!!</b></u><br><br>
+
+Por ahora no podemos decir cual ni dar fechas, pero estad atentos.<br><br>]]></content>
+		<author>Sany</author>
+       <date>31/10/2017</date> 
+       <disqus>00003</disqus>
+	</noticia>
+</articulos>
