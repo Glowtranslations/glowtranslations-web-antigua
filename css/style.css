@@ -149,17 +149,17 @@ a {text-decoration: none;}
 	z-index: 1;
 	}
 .second-bar {
-	height: 70px;
+	height: 130px;
 	width: 950px;
-	margin-top: 10px;
+	margin-top: 5px;
 	margin-bottom: 10px;
 	position: relative;
 	user-select: none;
 	}
 .logo {
   background-image: url(../images/logo.png);
-  background-size: 300px;
-  height: 60px;
+  background-size: 260px;
+  height: 160px;
   background-repeat: no-repeat;
   margin-left: 20px;
 }
