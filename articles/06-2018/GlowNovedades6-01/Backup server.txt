@@ -1,0 +1,108 @@
+<p>&iexcl;Buenas a todos! Por fin estamos en veranito y muchos ya disfrutamos de las vacaciones :D</p>
+
+<p style="text-align:center"><img src="https://i.imgur.com/PCl8gH7.gif" /></p>
+
+<p>&iquest;Qu&eacute; tal est&aacute;is? Tras publicar la traducci&oacute;n de <em>Lord Of Magna: Maiden Heaven</em>,&nbsp;hemos estado d&aacute;ndole duro a los ex&aacute;menes. Eso s&iacute;, en nuestros ratos libres nos hemos puesto a tope con nuestras traducciones e_e.</p>
+
+<p style="text-align:center"><img src="https://i.imgur.com/4Q1Vzz6.png" /></p>
+
+<p>Es por eso que vengo a comentaros todas estas novedades :).</p>
+
+<p>Antes de empezar, os aconsejo que le&aacute;is las GlowNovedades con la ost &laquo;Like a dream come true&raquo; de fondo ^^.</p>
+
+<p style="text-align:center"><iframe frameborder="0" src="https://www.youtube.com/embed/pLESWPUnVss"></iframe></p>
+
+<h2 style="text-align:center"><u><strong>Persona 4</strong></u></h2>
+
+<p><img src="http://gamingenthusiast.nintendoenthusiast.com/wp-content/uploads/sites/9/2014/04/1123095-persona_4_widescreen_by_serpentslayer.jpg" /></p>
+
+<p><em>Persona</em> viene pisando fuerte. Lo primero que tenemos que comentar es que hemos hecho inventario y organizado muchas cosas. Asimismo, hemos actualizado la tabla de progresos haci&eacute;ndola lo m&aacute;s precisa posible.</p>
+
+<p style="text-align:center"><img alt="" src="https://i.imgur.com/iTTzFeJ.png" /></p>
+
+<p>Pod&eacute;is ver que la traducci&oacute;n ha avanzado :D.&nbsp; Ya queda menos para acabar algunas cosas ;).</p>
+
+<p style="text-align:center"><img alt="" src="https://i.imgur.com/n63CpYq.jpg" /></p>
+
+<p>Tambi&eacute;n he desarrollado un programa para empezar a usar las CAT Tools (herramientas de traducci&oacute;n profesionales) y as&iacute; facilitar mucho la traducci&oacute;n, ya que implementa memoria, glosario, corrector, uso en todas las plataformas...<br />
+&iquest;Qu&eacute; significa esto para el usuario final? Significa que la traducci&oacute;n se acelerar&aacute; y tendr&aacute; mejor calidad, pues el propio programa se encargar&aacute; de mantener la coherencia conforme vayamos traduciendo ^^.<br />
+El programa es open source y es compatible con <em>Persona 3</em> (Traducciones del T&iacute;o V&iacute;ctor lo est&aacute; usando para traducir <em>Persona 3 FES</em>).</p>
+
+<p>Aqu&iacute; ten&eacute;is el enlace a mi programa: <a href="https://github.com/TraduSquare/Persona2po">Persona2po</a></p>
+
+<p>Una &uacute;ltima cosa a comentar: gracias a este programa existe la posibilidad de que la versi&oacute;n golden salga adelante gracias a la memoria de traducci&oacute;n. Eso s&iacute;, todav&iacute;a es pronto para asegurarlo, ya que hasta que no terminemos la traducci&oacute;n no podemos probar nada ^^.<br />
+<img src="https://i1.wp.com/www.seganerds.com/wp-content/uploads/2016/12/persona-4-golden-listing-thumb-01-psvita-us-27jan15.png?fit=1024%2C576" /> Antes de terminar esta secci&oacute;n, me gustar&iacute;a mostraros estas capturas que hice hace poco cuando estaba testeando las im&aacute;genes.</p>
+
+<p><img src="https://i.imgur.com/beNPfgM.png" /><img src="https://i.imgur.com/3j3xfTQ.png" /><img src="https://i.imgur.com/eyMdaAV.png" /><img src="https://i.imgur.com/eZklBzh.png" /><img src="https://i.imgur.com/lSmwE4Y.png" /><img src="https://i.imgur.com/BgEHaZe.png" /></p>
+
+<p>Todav&iacute;a no son las definitivas, pero... &iquest;Os gusta el resultado? :D</p>
+
+<h2 style="text-align:center"><u><strong>Rune Factory 4</strong></u></h2>
+
+<p><img src="https://i.imgur.com/0EJF6yI.jpg" /><br />
+&iexcl;<em>Rune Factory 4</em> tambi&eacute;n tiene sus novedades! Es algo complejo de explicar, pero espero que lo entend&aacute;is todos.</p>
+
+<p style="text-align:center"><br />
+<img alt="" src="https://i.imgur.com/kIW1aJH.png" /></p>
+
+<p>Al igual que Persona 4, tambi&eacute;n he desarrollado un programa open source para usar las CAT Tools (herramientas de traducci&oacute;n profesionales) en la traducci&oacute;n y as&iacute; mejorar su calidad y velocidad.<br />
+Adem&aacute;s, antes de seguir avanzando en la traducci&oacute;n hemos estado debatiendo sobre algo importante: la organizaci&oacute;n total del archivo principal de textos para que podamos traducir bien el juego.<br />
+Ese archivo que he mencionado es donde se almacena todo lo relacionado con las conversaciones amorosas, random, arcos de historia, orders... est&aacute; s&uacute;per fragmentado y es imposible saber lo que uno est&aacute; traduciendo (de ah&iacute; que la traducci&oacute;n est&eacute; tardando tanto). Gracias a mi programa podemos ordenarlo y saber que parte estamos tocando, pero es un trabajo que tenemos que hacer a mano, pues de otra forma resulta imposible.</p>
+
+<p style="text-align:center"><img src="https://i.imgur.com/GRQGdms.png" /><br />
+Al final merecer&aacute; la pena, pues as&iacute; podremos hacerlo mejor e ir mucho m&aacute;s r&aacute;pido :D.</p>
+
+<p>Tambi&eacute;n esto permitir&aacute; que otros grupos de traducci&oacute;n que quieran traducir el juego a otros idiomas puedan hacerlo m&aacute;s f&aacute;cilmente, ya que que podr&aacute;n usar mi programa y tendr&aacute;n los archivos ordenados ^^.<br />
+Aqu&iacute; ten&eacute;is el enlace al programa: <a href="https://github.com/TraduSquare/TEXT2PO">TEXT2PO</a></p>
+
+<p>No vamos a pausar la traducci&oacute;n: una parte del equipo se encargar&aacute; de ordenar el archivo y otra de terminar de traducir algunas cosas (por ejemplo, los v&iacute;deos).</p>
+
+<p style="text-align:center"><img alt="" src="https://i.imgur.com/2eMKgKd.png" /></p>
+
+<p>Desconocemos cu&aacute;nto podremos tardar, pero lo haremos lo antes posible ^^.<br />
+Tambi&eacute;n se han exportado ya las im&aacute;genes y quedan genial en el juego :D. Os dejo unas capturas:</p>
+
+<p><img src="https://i.imgur.com/mtVENQ9.png" /><img src="https://i.imgur.com/3IrhMuR.png" /><img src="https://i.imgur.com/9giGmtf.png" /><img src="https://i.imgur.com/e7ugjcD.png" /><img src="https://i.imgur.com/uRk5DWs.png" /><img src="https://i.imgur.com/J1uVPFV.png" /></p>
+
+<h2 style="text-align:center"><u><strong>Otras cosas a comentar</strong></u></h2>
+
+<h3 style="text-align:center"><u><strong>Lord Of Magna: Maiden Heaven</strong></u></h3>
+
+<p>Recordamos que hace 2 meses publicamos la traducci&oacute;n de<em> Lord Of Magna: Maiden Heaven</em>, por si no os hab&iacute;ais enterado D:<br />
+Aqu&iacute; os dejo la p&aacute;gina del proyecto y la descarga del parche:</p>
+
+<ul>
+	<li><a href="http://glowtranslations.tk/translations/lordofmagna/informacion.html">Informaci&oacute;n del proyecto</a></li>
+	<li><a href="http://glowtranslations.tk/translations/lordofmagna/descargas.html">Descarga</a></li>
+</ul>
+
+<p>Por &uacute;ltimo, pr&oacute;ximamente lanzaremos al p&uacute;blico la gu&iacute;a del videojuego :D</p>
+
+<h3 style="text-align:center"><strong>P&aacute;gina Web</strong></h3>
+
+<p>Asimismo, tengo previsto actualizar la web de Glowtranslations a la 3.0, con muchos a&ntilde;adidos y mejoras de rendimiento, tal y como ha hecho Shiryu con Tradusquare (no, no es envidia ni nada, es algo que ten&iacute;a pendiente desde hace tiempo xD)</p>
+
+<h3 style="text-align:center"><strong>&iexcl;Atlus va a traducir Persona Dancing!</strong></h3>
+
+<p>Atlus ha declarado que va a traducir<em> Persona 3 Dancing in Moonlight</em> y <em>Persona 5 Dancing in Starlight</em> al espa&ntilde;ol :D</p>
+
+<p>La noticia es fant&aacute;stica ya que puede que<em> Persona 5</em> &laquo;Golden&raquo; o la futura saga de SMT (<em>Shin Megami Tensei V</em>) vengan en espa&ntilde;ol oficial al fin ^^.</p>
+
+<p style="text-align:center"><img src="https://i.imgur.com/qXCqiYi.jpg" /></p>
+
+<p style="text-align:center"><a href="https://blog.us.playstation.com/2018/06/07/persona-3-dancing-in-moonlight-and-persona-5-dancing-in-starlight-hit-ps4-ps-vita-early-2019/">Fuente</a></p>
+
+<h3 style="text-align:center"><strong>Imagen de portada</strong></h3>
+
+<p>Tambi&eacute;n hemos querido sacar la imagen de portada de las GlowNovedades para que lo us&eacute;is de fondo de pantalla.</p>
+
+<p style="text-align:center"><img src="https://i.imgur.com/8UCYZO5.png" /></p>
+
+<p>Y eso es todo por ahora, espero que os hayan gustado estas GlowNovedades :D</p>
+
+<p style="text-align:center"><img src="https://78.media.tumblr.com/ffa216acc5a5f5e44e678e04e46b4b66/tumblr_n9cp3iCZlw1r4vn7vo2_r1_500.gif" /><br />
+(Demasiado tarde, Kaiji...)</p>
+
+<p style="text-align:center"><img src="http://glowtranslations.tk/articles/11-2017/GlowNovedades2-30/images/despedida.png" /></p>
+
+<p>(Por &uacute;ltimo, me gustar&iacute;a agradecer a mi compi Erena por ayudarme a redactar y a corregir los errores de estas GlowNovedades ^^).</p>
