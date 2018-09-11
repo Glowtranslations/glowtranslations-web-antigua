@@ -2,9 +2,8 @@
   background-color: #616161;
   border-radius: 5px 5px 5px 5px;
   height: auto;
-  font-size: 20px;
+  font-size: 120%;
   line-height: 20px;
-  width: 890px;
   padding: 10px 10px 10px 25px;
 	border: 1px solid rgba(0,0,0,0.25);
 	box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
@@ -39,7 +38,7 @@
 	line-height: 30px;
 	box-shadow: 2px 3px 5px rgba(0,0,0,0.5);
 	}
-.download-buttons > a > div:hover {	
+.download-buttons > a > div:hover {
 	line-height: 32px;
 	box-shadow: 0px 1px 5px rgba(0,0,0,0.5);
 	margin-top: 2px;
