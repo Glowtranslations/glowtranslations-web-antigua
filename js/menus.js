@@ -17,5 +17,9 @@ function noSubMenu() {
 	document.getElementById("second-bar").innerHTML =  '<a href="http://glowtranslations.tk/index.html" style="width: 325px; display: inline-block"><div class="logo"></div></a>';
 }
 function footer() {	
-	document.getElementById("footer").innerHTML =  'Recuerda, nuestros proyectos son sin animo de lucro por fans para fans. En este sitio no encontrarás ningún enlace para descargar un juego o una demo,<br> sólo parches para traducir el videojuego al español. <br> Glowtranslations 2016-2018 - Página diseñada por CrusardGameamos y Darkmet98';
+	document.getElementById("footer").innerHTML =  'Recuerda, nuestros proyectos son sin animo de lucro por fans para fans. En este sitio no encontrarás ningún enlace para descargar un juego o una demo,<br> sólo parches para traducir el videojuego al español. Glowtranslations 2016-2018 - Página diseñada por CrusardGameamos y Darkmet98';
+}
+
+function articles() {
+    document.getElementById("articles").innerHTML = '<ul><li><a href="http://glowtranslations.tk/articles/09-2018/index.html">Septiembre 2018</a></li>	<li><a href="http://glowtranslations.tk/articles/06-2018/index.html">Junio 2018</a></li>	<li><a href="http://glowtranslations.tk/articles/05-2018/index.html">Mayo 2018</a></li>	<li><a href="http://glowtranslations.tk/articles/04-2018/index.html">Abril 2018</a></li>	<li><a href="http://glowtranslations.tk/articles/02-2018/index.html">Febrero 2018</a></li>	<li><a href="http://glowtranslations.tk/articles/01-2018/index.html">Enero 2018</a></li>	<li><a href="http://glowtranslations.tk/articles/12-2017/index.html">Diciembre 2017</a></li>	<li><a href="http://glowtranslations.tk/articles/11-2017/index.html">Noviembre 2017</a></li>	<li><a href="http://glowtranslations.tk/articles/10-2017/index.html">Octubre 2017</a></li></ul>';
 }

@@ -10,10 +10,10 @@
 	</script>
 	<meta property="og:title" content="Glowtranslations - GlowNovedades #2 - ¡Se acercan las navidades!"/>
 	<meta property="og:description" content="¡Hola de nuevo! Traemos las GlowNovedades de éste mes, ¡con muchas cosas que contar!..." />
-	<meta property="og:image" content="http://glowtranslations.tk/articles/11-2017/GlowNovedades2-30/images/top.png"/>
+	<meta property="og:image" content="http://glowtranslations.tk/articles/11-2017/GlowNovedades2-30/images/top.jpg"/>
     <meta property="og:type" content="article" />
     <meta property="article:published_time" content="2017-11-31T10:30:00+01:00" />
-	<title>GlowTranslations - GlowNovedades #2 - ¡Se acercan las navidades!</title>
+	<title id="title1"></title>
 	<link rel="stylesheet" type="text/css" href="../../../css/style.css">
 	<link rel="stylesheet" type="text/css" href="../../../css/progress.css">
 	<link rel="stylesheet" type="text/css" href="../../../css/gallery.css">
@@ -28,7 +28,7 @@
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
 	<meta charset="UTF-8">
 	<meta name="keywords" content="GlowTranslations, glowtranslations, Stella Glow, Rune Factory, Lord of Magna, persona 4, Traducciones, Scene, 3DS, PS2">
-	<meta name="description" content="Pagina oficial de Glow translations, traducciones FAN de juegos.">
+	<meta name="description" content="¡Hola de nuevo! Traemos las GlowNovedades de éste mes, ¡con muchas cosas que contar!...">
 	<meta name="author" content="Glowtranslations">
 	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
@@ -52,60 +52,45 @@ window.cookieconsent.initialise({
   }
 })});
 </script>
+<script>
+        //busca el xml
+var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+        contenido(this);
+		}
+};
+xhttp.open("GET", "../../articulo.xml", true);
+xhttp.send();
+
+//Lee el xml (Estado alpha, el script necesita ser mejorado)
+function contenido(xml) {
+    var xmlDoc = xml.responseXML;
+    var title1 = xmlDoc.getElementsByTagName("title1")[3].childNodes[0];
+    var title2 = xmlDoc.getElementsByTagName("title2")[3].childNodes[0];
+	var content = xmlDoc.getElementsByTagName("content")[3].childNodes[0];
+    var author = xmlDoc.getElementsByTagName("author")[3].childNodes[0];
+	var date = xmlDoc.getElementsByTagName("date")[3].childNodes[0];
+		document.getElementById("title1").innerHTML = title1.nodeValue;
+        document.getElementById("title2").innerHTML = title2.nodeValue;
+		document.getElementById("content").innerHTML = content.nodeValue;
+		document.getElementById("author").innerHTML = author.nodeValue;
+		document.getElementById("date").innerHTML = date.nodeValue;
+}
+    </script>
 </head>
 <body class="body-mainpage">
-    	<script>
-		function openModal() {
- 		 document.getElementById('myModal').style.display = "block";
-		}
-
-	function closeModal() {
- 	 document.getElementById('myModal').style.display = "none";
-	}
-
-	var slideIndex = 1;
-		showSlides(slideIndex);
-
-	function plusSlides(n) {
-	  showSlides(slideIndex += n);
-	}
-
-	function currentSlide(n) {
-	  showSlides(slideIndex = n);
-	}
-
-	function showSlides(n) {
-	  var i;
-	  var slides = document.getElementsByClassName("mySlides");
-	  var dots = document.getElementsByClassName("demo");
-	  var captionText = document.getElementById("caption");
-	  if (n > slides.length) {slideIndex = 1}
-	  if (n < 1) {slideIndex = slides.length}
- 	 for (i = 0; i < slides.length; i++) {
-	    slides[i].style.display = "none";
-	  }
-	  for (i = 0; i < dots.length; i++) {
-	    dots[i].className = dots[i].className.replace(" active", "");
-	  }
-	  slides[slideIndex-1].style.display = "block";
-	  dots[slideIndex-1].className += " active";
-	  captionText.innerHTML = dots[slideIndex-1].alt;
-	}
-	</script>
 	<div class="main-body">
 		 <div class="main-menu" id="main-menu"></div>
-		<div class="second-bar" id="second-bar"><a href="../../../index.html"><div class="logo"></div></a></div>
-		<div class="content-container">
-		<div class="content-title" id="title"></div>
+		<div class="second-bar" id="second-bar"></div>
+		<div class="content-container-post">
+            <div class="content-title-post" style="background-image: url('images/top.jpg');"><a class="content-title-text"><div class="background-title-text"><div id="title2"></div></div></a></div>
 		<div class="content">
-			<span datafld="content"></span>
-			<img onload="this.style.opacity='1';" style="width: 860px; height: 400px; text-align: center;" src="images/top.png" ><br>
 			<div id="content"></div>
-            <img onload="this.style.opacity='1';" style=" height: 320px; text-align: center;" src="images/despedida.png">
-			<div class="title" style="margin-bottom: -20px;"><h1>Redactado el <a id= "date"></a> por <a id= "author"></a></h1></div>
+			<div class="title"><h1>Redactado el <a id="date"></a> por <a id="author"></a></h1></div>
 		</div>
 		</div>
-        <div class="content-container" style="margin-top: 20px;">
+        <div class="content-container-post" style="margin-top: 20px;">
 			<div id="disqus_thread"></div>
 			<script>
 			var disqus_config = function () {
@@ -128,12 +113,12 @@ window.cookieconsent.initialise({
 			</a>
 			</noscript>
 			</div>
-		<div class="content-container" style="margin-top: 20px;">
+		<div class="content-container-post" style="margin-top: 20px;">
 		<a class="boton_anterior" href="http://glowtranslations.tk/articles/10-2017/GlowNovedades1-31/GlowNovedades-1.html">Anterior noticia</a><a class="boton_siguiente" href="http://glowtranslations.tk/articles/12-2017/Avancestradus-17/Avancestradus.html">Siguiente noticia</a>
 		</div>
 		<div style="height:100px; clear: both;"></div>
         <div class="footer" id="footer"></div>
-		<script src="script.js"></script>
+		
 		<script src="../../../js/menus.js" onload="mainMenu(), noSubMenu(), footer()"></script>
         <script id="dsq-count-scr" src="//glowtranslations.disqus.com/count.js" async></script>
     </div>

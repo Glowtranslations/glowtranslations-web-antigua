@@ -2,7 +2,11 @@
     from { opacity: 0; }
     to   { opacity: 1; }
 }
-img {transition: opacity 2s; opacity: 0;}
+img {
+    transition: opacity 2s;
+    opacity: 0;
+    max-width: 100%;
+}
 a {text-decoration: none;}
 .content h1, .content h2{
 	background-color: #fff;
@@ -99,7 +103,7 @@ a {text-decoration: none;}
   font-family: 'PT Sans', sans-serif;
 	}
 .main-body {
-	width: 95%;
+	width: 96%;
 	min-height: 100vh;
 	margin: 0px auto 0px auto;
 	position: relative;
@@ -220,15 +224,15 @@ div.content-title-post {
 	}
 a.content-title-text {
     font-size: 30px;
-    margin-left: 1%;
+    /*margin-left: 1%;*/
     text-align: center;
-color: white;
-letter-spacing: 0;
-text-shadow: -1px -1px 1px #333, 1px -1px 1px #333, -1px 1px 1px #333, 1px 1px 1px #333;
+    color: white;
+    letter-spacing: 0;
+    text-shadow: -1px -1px 1px #333, 1px -1px 1px #333, -1px 1px 1px #333, 1px 1px 1px #333;
 }
 div.background-title-text {
     background-color:rgba(0, 0, 0, 0.8);
-        border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
 }
 div.content-title-widget {
   background-color: #2980b9;
@@ -330,6 +334,7 @@ div.module-title-background{
 	height: 80px;
 	background-position: right center;
 	background-repeat: no-repeat;
+        background-size: cover;
 	padding: 0px;
 	border-radius: 5px 5px 0px 0px;
 	position: absolute;
@@ -357,8 +362,8 @@ div.module div.content-title-widget {
 	border-radius: 5px;
 	box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
 	float: left;
-	margin-left: 25px;
-	margin-right: 25px;
+	margin-left: 15px;
+	margin-right: 15px;
 	margin-bottom: 25px;
 	}
 .member-avatar {

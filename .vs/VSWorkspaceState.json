@@ -1,10 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\js",
+    "\\articles\\01-2018",
+    "\\articles\\02-2018",
+    "\\articles\\04-2018",
+    "\\articles\\05-2018",
+    "\\articles\\06-2018",
+    "\\articles\\09-2018",
+    "\\articles\\10-2017",
     "\\translations",
-    "\\translations\\stellaglow"
+    "\\translations\\persona4",
+    "\\translations\\runefactory4"
   ],
-  "SelectedNode": "\\translations\\stellaglow",
+  "SelectedNode": "\\translations\\runefactory4\\progresos.html",
   "PreviewInSolutionExplorer": false
 }
