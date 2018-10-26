@@ -1,6 +1,5 @@
 ![Glowtranslations](https://raw.githubusercontent.com/Glowtranslations/glowtranslations.github.io/master/images/logo.png)
-# Work In Progress GlowTranslations Web 3.0
-# Página web de glowtranslations
+# Página web 3.0 de GlowTranslations
 ## Esta página web está creada por:
 * Crusard Gameamos
 * Darkmet98
