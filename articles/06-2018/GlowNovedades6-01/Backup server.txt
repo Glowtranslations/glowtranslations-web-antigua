@@ -72,8 +72,8 @@ Tambi&eacute;n se han exportado ya las im&aacute;genes y quedan genial en el jue
 Aqu&iacute; os dejo la p&aacute;gina del proyecto y la descarga del parche:</p>
 
 <ul>
-	<li><a href="http://glowtranslations.tk/translations/lordofmagna/informacion.html">Informaci&oacute;n del proyecto</a></li>
-	<li><a href="http://glowtranslations.tk/translations/lordofmagna/descargas.html">Descarga</a></li>
+	<li><a href="https://glowtranslations.tk/translations/lordofmagna/informacion.html">Informaci&oacute;n del proyecto</a></li>
+	<li><a href="https://glowtranslations.tk/translations/lordofmagna/descargas.html">Descarga</a></li>
 </ul>
 
 <p>Por &uacute;ltimo, pr&oacute;ximamente lanzaremos al p&uacute;blico la gu&iacute;a del videojuego :D</p>
@@ -103,6 +103,6 @@ Aqu&iacute; os dejo la p&aacute;gina del proyecto y la descarga del parche:</p>
 <p style="text-align:center"><img src="https://78.media.tumblr.com/ffa216acc5a5f5e44e678e04e46b4b66/tumblr_n9cp3iCZlw1r4vn7vo2_r1_500.gif" /><br />
 (Demasiado tarde, Kaiji...)</p>
 
-<p style="text-align:center"><img src="http://glowtranslations.tk/articles/11-2017/GlowNovedades2-30/images/despedida.png" /></p>
+<p style="text-align:center"><img src="https://glowtranslations.tk/articles/11-2017/GlowNovedades2-30/images/despedida.png" /></p>
 
 <p>(Por &uacute;ltimo, me gustar&iacute;a agradecer a mi compi Erena por ayudarme a redactar y a corregir los errores de estas GlowNovedades ^^).</p>

@@ -51,4 +51,4 @@ Os dejamos un trocito de texto.
 
 <strong>¡Y hasta aquí las Glownovedades de éste mes!</strong>
 Esperamos que os agraden tanto como a nosotros.
-<img src="http://glowtranslations.tk/articles/11-2017/GlowNovedades2-30/images/despedida.png" />
+<img src="https://glowtranslations.tk/articles/11-2017/GlowNovedades2-30/images/despedida.png" />
