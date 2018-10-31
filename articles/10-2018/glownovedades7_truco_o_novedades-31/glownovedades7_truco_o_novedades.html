@@ -1,0 +1,124 @@
+﻿<html>
+<head>
+	<!-- Global Site Tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-76928300-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments)};
+	gtag('js', new Date());
+	gtag('config', 'UA-76928300-1');
+	</script>
+    <title id="title1"></title>
+	<link rel="stylesheet" type="text/css" href="../../../css/style.css">
+	<link rel="stylesheet" type="text/css" href="../../../css/progress.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../apple-touch-icon.png?v=E6jLbRYamd">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../../favicon-32x32.png?v=E6jLbRYamd">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../../android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../../favicon-16x16.png?v=E6jLbRYamd">
+    <link rel="manifest" href="../../../site.webmanifest?v=E6jLbRYamd">
+    <meta property="og:title" content="GlowNovedades #7: ¡Truco o Novedades!"/>
+	<meta property="og:description" content="¡Muy buenas a todos! ¿Cómo os lo estáis pasando este Halloween? ¿A alguien se le ha ocurrido disfrazarse de algún personaje de Stella Glow, como Hilda? ¿O de..." />
+	<meta property="og:image" content="https://glowtranslations.tk/articles/09-2018/avancesrune-04/images/top.jpg"/>
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2018-09-04T10:30:00+01:00" />
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="msapplication-TileImage" content="../../../mstile-144x144.png">
+    <meta name="theme-color" content="#897E78">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
+	<meta charset="UTF-8">
+	<meta name="keywords" content="GlowTranslations, glowtranslations, Stella Glow, Rune Factory, Lord of Magna, persona 4, Traducciones, Scene, 3DS, PS2">
+	<meta name="description" content="¡Muy buenas a todos! ¿Cómo os lo estáis pasando este Halloween? ¿A alguien se le ha ocurrido disfrazarse de algún personaje de Stella Glow, como Hilda? ¿O de...">
+	<meta name="author" content="Glowtranslations">
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#2e2e2e"
+    },
+    "button": {
+      "background": "#237ccf"
+    }
+  },
+  "theme": "edgeless",
+  "content": {
+    "message": "Glowtranslations utiliza cookies para mejorar tu experiencia en la web.",
+    "dismiss": "Lo comprendo",
+    "link": "¿Qué significa esto?",
+    "href": "https://es.wikipedia.org/wiki/Cookie_(inform%C3%A1tica)"
+  }
+})});
+</script>
+    <script>
+        //busca el xml
+var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+        contenido(this);
+		}
+};
+xhttp.open("GET", "../../articulo.xml", true);
+xhttp.send();
+
+//Lee el xml (Estado alpha, el script necesita ser mejorado)
+function contenido(xml) {
+    var xmlDoc = xml.responseXML;
+    var title1 = xmlDoc.getElementsByTagName("title1")[13].childNodes[0];
+    var title2 = xmlDoc.getElementsByTagName("title2")[13].childNodes[0];
+	var content = xmlDoc.getElementsByTagName("content")[13].childNodes[0];
+    var author = xmlDoc.getElementsByTagName("author")[13].childNodes[0];
+	var date = xmlDoc.getElementsByTagName("date")[13].childNodes[0];
+		document.getElementById("title1").innerHTML = title1.nodeValue;
+        document.getElementById("title2").innerHTML = title2.nodeValue;
+		document.getElementById("content").innerHTML = content.nodeValue;
+		document.getElementById("author").innerHTML = author.nodeValue;
+		document.getElementById("date").innerHTML = date.nodeValue;
+}
+    </script>
+</head>
+<body class="body-mainpage">
+	<div class="main-body">
+		 <div class="main-menu" id="main-menu"></div>
+		<div class="second-bar" id="second-bar"></div>
+		<div class="content-container-post">
+            <div class="content-title-post" style="background-image: url('images/top.jpg');"><a class="content-title-text"><div class="background-title-text"><div id="title2"></div></div></a></div>
+		<div class="content">
+			<div id="content"></div>
+			<div class="title"><h1>Redactado el <a id="date"></a> por <a id="author"></a></h1></div>
+		</div>
+		</div>
+        <div class="content-container-post" style="margin-top: 20px;">
+			<div id="disqus_thread"></div>
+			<script>
+                var disqus_config = function () {
+			this.page.url = 'https://glowtranslations.tk/articles/10-2018/glownovedades7_truco_o_novedades-31/glownovedades7_truco_o_novedades.html';  // Replace PAGE_URL with your page's canonical URL variable
+			this.page.identifier = '0013';
+			};
+
+			(function() { // DON'T EDIT BELOW THIS LINE
+			var d = document, s = d.createElement('script');
+			s.src = 'https://glowtranslations.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
+			})();
+			</script>
+			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+			<noscript>
+			Please enable JavaScript to view the
+				<a href="https://disqus.com/?ref_noscript" rel="nofollow">
+			comments powered by Disqus.
+			</a>
+			</noscript>
+			</div>
+		<div class="content-container-post" style="margin-top: 20px;">
+		<a class="boton_anterior" href="https://glowtranslations.tk/articles/09-2018/avancesrune-04/avances-rune-factory4.html">Anterior noticia</a><a class="boton_siguiente" href="#">Siguiente noticia</a>
+		</div>
+		<div style="height:100px; clear: both;"></div>
+        <div class="footer" id="footer"></div>
+		<script src="../../../js/menus.js" onload="mainMenu(), noSubMenu(), footer()"></script>
+        <script id="dsq-count-scr" src="//glowtranslations.disqus.com/count.js" async></script>
+    </div>
+	</body>
+</html>
