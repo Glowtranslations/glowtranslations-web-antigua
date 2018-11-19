@@ -206,6 +206,7 @@ div.content-title {
   background-repeat: no-repeat;
   background-color: #fff;
   background-size: cover;
+  background-position: center center;
 	}
 div.content-title-post {
   background-color: #2980b9;
@@ -221,6 +222,7 @@ div.content-title-post {
   background-attachment: fixed;
   background-color: #fff;
   background-size: cover;
+  background-position: center center;
 	}
 a.content-title-text {
     font-size: 30px;
