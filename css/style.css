@@ -102,6 +102,28 @@ a {text-decoration: none;}
   margin: 0px;
   font-family: 'PT Sans', sans-serif;
 	}
+.body-NOA {
+	background-image: url("../images/bg6.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: #fff;
+	background-size: cover;
+	padding: 0px;
+	margin: 0px;
+	font-family: 'PT Sans', sans-serif;
+	}
+.body-LB {
+	background-image: url("../images/bg7.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: #fff;
+	background-size: cover;
+	padding: 0px;
+	margin: 0px;
+	font-family: 'PT Sans', sans-serif;
+	}
 .main-body {
 	width: 96%;
 	min-height: 100vh;
