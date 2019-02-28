@@ -23,7 +23,7 @@ function noSubMenu() {
 	document.getElementById("second-bar").innerHTML =  '<a href="https://glowtranslations.tk/index.html" style="width: 325px; display: inline-block"><div class="logo"></div></a>';
 }
 function footer() {
-	document.getElementById("footer").innerHTML =  'Recuerda, nuestros proyectos son sin animo de lucro por fans para fans. En este sitio no encontrarás ningún enlace para descargar un juego o una demo,<br> sólo parches para traducir el videojuego al español. Glowtranslations 2016-2018 - Página diseñada por CrusardGameamos y Darkmet98';
+	document.getElementById("footer").innerHTML =  'Recuerda, nuestros proyectos son sin animo de lucro por fans para fans. En este sitio no encontrarás ningún enlace para descargar un juego o una demo,<br> sólo parches para traducir el videojuego al español. Glowtranslations 2016-2019 - Página diseñada por CrusardGameamos y Darkmet98';
 }
 
 function articles() {
